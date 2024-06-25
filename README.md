@@ -14,10 +14,7 @@ Además, proporcionamos equipos de alta calidad y ofrecemos consultoría estrat�
 
 En **EnergyTime**, trabajamos de cerca con nuestros clientes para hacer realidad sus proyectos de energía solar, contribuyendo así a un futuro más limpio y sostenible.
 
-![Futuro Sostenible](images/energytime_future.png)
-
-
-
+![Futuro Sostenible](https://eenergytime.netlify.app/)
 
 
 - Configure the top-level `parserOptions` property like this:
