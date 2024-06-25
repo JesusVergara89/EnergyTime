@@ -1,15 +1,24 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# EnergyTime
 
-Currently, two official plugins are available:
+**EnergyTime** es líder en el campo de la energía solar y renovable. Nos especializamos en ofrecer soluciones completas que abarcan desde la planificación y diseño hasta la construcción y operación de proyectos solares.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![EnergyTime Logo](/src/images/Energytime.png)
 
-## Expanding the ESLint configuration
+Nuestros servicios incluyen la elaboración de presupuestos precisos y competitivos, el diseño eficiente de instalaciones y la implementación de tecnologías avanzadas para maximizar el rendimiento energético.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+![Servicios de EnergyTime](/src/images/Services.png)
+
+Además, proporcionamos equipos de alta calidad y ofrecemos consultoría estratégica para garantizar el éxito de cada proyecto solar.
+
+En **EnergyTime**, trabajamos de cerca con nuestros clientes para hacer realidad sus proyectos de energía solar, contribuyendo así a un futuro más limpio y sostenible.
+
+![Futuro Sostenible](images/energytime_future.png)
+
+
+
+
 
 - Configure the top-level `parserOptions` property like this:
 
